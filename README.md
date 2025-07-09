@@ -5,7 +5,7 @@ Note that this task is also referred to as outlier Interpretation, outlier aspec
 We make the source code of the 11 baseline methods publicly available. In addition, since outlier-interpretation-main/GLEAN is the core code of the GLEAN model, if this paper is fortunate enough to be accepted, we promise to make it publicly available immediately upon acceptance. Thank you for your understanding.
 
 
-### Seven Outlier Explanation Methods
+### 11 Outlier Explanation Methods
 
 **This repository contains seven outlier interpretation methods: GLEAN[1], ATON [2], COIN[3], SiNNE[4], SHAP[5], LIME[6], Anchors[7], REVISE[8], DiCE[9], FACE[10], EACE[11], and PML[12].**
 
